@@ -1,4 +1,4 @@
-![Coderkick Wordmark](https://coderkick.com/assets/CoderkickWordmark.png)
+![Coderkick Wordmark](https://coderkick.com/assets/CoderkickWordmark.png?)
 
 _Coderkick is a non-profit organization with the goal of helping new developers and of giving to children tools to start their adventure in the programming world._
 
