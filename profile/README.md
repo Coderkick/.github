@@ -1,6 +1,6 @@
 ![Coderkick Wordmark](https://coderkick.com/assets/CoderkickWordmark.png)
 
-_Coderkick is a non-profit organization with the goal of endorsing the **art* of programming._
+_Coderkick is a non-profit organization with the goal of endorsing the **art** of programming._
 
 Welcome to our GitHub organization! Here's where most of the code made by me for Coderkick is preserved.
 
